@@ -1,0 +1,36 @@
+{
+    "default":
+    {
+        "sellbot_courtyard": "phase_9/audio/bgm/SB_courtyard.ogg",
+        "sellbot_courtyard_battle": "phase_9/audio/bgm/SB_courtyard_encntr.ogg",
+        "sellbot_lobby": "phase_9/audio/bgm/SB_lobby.ogg",
+        "sellbot_factory_exterior": "phase_9/audio/bgm/SB_factory_lobby.ogg",
+        "sellbot_factory_exterior_battle": "phase_9/audio/bgm/SB_courtyard_encntr.ogg",
+        "sellbot_factory_interior": "phase_9/audio/bgm/SB_factory.ogg",
+        "sellbot_factory_battle": "phase_9/audio/bgm/SB_factory_encntr.ogg",
+        "sellbot_factory_boss": "phase_9/audio/bgm/SB_foreman_encntr.ogg",
+        "vp_elevator": "phase_9/audio/bgm/sb_elevator.ogg",
+        "vp_intro_cutscene": "phase_9/audio/bgm/SB_boss_cutscene_1.ogg",
+        "vp_battle_one": "phase_9/audio/bgm/SB_boss_encntr_1.ogg",
+        "vp_flee_cutscene": "phase_9/audio/bgm/SB_boss_cutscene_2.ogg",
+        "vp_cage_toon_skelecogs": "phase_9/audio/bgm/SB_boss_cutscene_3.ogg",
+        "vp_cage_toon_final": "phase_9/audio/bgm/SB_boss_cutscene_3.ogg",
+        "cashbot_courtyard": "phase_10/audio/bgm/CB_courtyard.ogg",
+        "cashbot_courtyard_battle": "phase_10/audio/bgm/CB_courtyard_encntr.ogg",
+        "cashbot_lobby": "phase_10/audio/bgm/CB_lobby.ogg",
+        "cashbot_mint_11500": "phase_10/audio/bgm/CB_mint_coin.ogg",
+        "cashbot_mint_11500_battle": "phase_10/audio/bgm/CB_mint_encntr_coin.ogg",
+        "cashbot_mint_11600": "phase_10/audio/bgm/CB_mint_dollar.ogg",
+        "cashbot_mint_11600_battle": "phase_10/audio/bgm/CB_mint_encntr_dollar.ogg",
+        "cashbot_mint_11700": "phase_10/audio/bgm/CB_mint_bullion.ogg",
+        "cashbot_mint_11700_battle": "phase_10/audio/bgm/CB_mint_encntr_bullion.ogg",
+        "cfo_elevator": "phase_10/audio/bgm/CB_elevator.ogg",
+        "cfo_intro_cutscene": "phase_10/audio/bgm/CB_boss_cutscene_1.ogg",
+        "cfo_battle_one": "phase_10/audio/bgm/CB_boss_encntr_1.ogg",
+        "cfo_flee_cutscene": "phase_10/audio/bgm/CB_boss_cutscene_2.ogg",
+        "cfo_battle_two": "phase_10/audio/bgm/CB_boss_encntr_2.ogg",
+        "cfo_crane_cutscene": "phase_10/audio/bgm/CB_boss_cutscene_3.ogg",
+        "cfo_battle_three": "phase_10/audio/bgm/CB_boss_crane.ogg",
+        "null_example": "None"
+    }
+}
