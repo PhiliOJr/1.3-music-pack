@@ -12,7 +12,7 @@
         "toontown_central_2100": "phase_3.5/audio/bgm/TC_SZ.ogg",
         "toontown_central_2200": "phase_3.5/audio/bgm/TC_SZ.ogg",
         "toontown_central_2300": "phase_3.5/audio/bgm/TC_SZ.ogg",
-        "toontown_central_2400": "phase_3.5/audio/bgm/TC_SZ.ogg",
+        "toontown_central_2400": "phase_3.5/audio/bgm/TC_SZ_SH_encntr.ogg",
         "toontown_central_2100_interior": "phase_3.5/audio/bgm/TC_SZ_activity.ogg",
         "toontown_central_2200_interior": "phase_3.5/audio/bgm/TC_SZ_activity.ogg",
         "toontown_central_2300_interior": "phase_3.5/audio/bgm/TC_SZ_activity.ogg",
@@ -302,7 +302,7 @@
         "ceo_battle_four": "phase_12/audio/bgm/BB_boss_seltzer.ogg",
         "ceo_victory": "phase_12/audio/bgm/BB_boss_victory.ogg",
         "ceo_epilogue": "phase_12/audio/bgm/BB_boss_epilogue.ogg",
-        "bossbot_courtyard": "phase_12/audio/bgm/BB_courtyard.ogg",
+        "bossbot_courtyard": [ "phase_12/audio/bgm/BB_courtyard.ogg", "phase_12/audio/bgm/BB_courtyard_alt.ogg" ]
         "bossbot_courtyard_battle": "phase_12/audio/bgm/BB_courtyard_encntr.ogg",
         "bossbot_lobby": "phase_12/audio/bgm/BB_boss_lobby.ogg",
         "bossbot_country_club_13500": "phase_12/audio/bgm/BB_club_front.ogg",
